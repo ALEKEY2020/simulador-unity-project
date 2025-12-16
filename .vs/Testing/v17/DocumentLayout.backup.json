@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\assets\\scenes\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|c:\\users\\alexisc\\documents\\unityproject\\testing\\assets\\scenes\\scripts\\logicacanasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\logicacanasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\assets\\scenes\\scripts\\gamemanagersimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\gamemanagersimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\assets\\scenes\\scripts\\manomouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\manomouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\MonoMouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\Scripts\\MonoMouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\assets\\scenes\\scripts\\controladorintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\controladorintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\assets\\scenes\\scripts\\punto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\punto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\assets\\scenes\\scripts\\juegounirpuntos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\juegounirpuntos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\assets\\scenes\\scripts\\cinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ED1CE3-772E-F3DE-3FE9-21977164E909}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\cinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogicaCanasta.cs",
+              "DocumentMoniker": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\LogicaCanasta.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\LogicaCanasta.cs",
+              "ToolTip": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\LogicaCanasta.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\LogicaCanasta.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:40:39.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManoMouse.cs",
+              "DocumentMoniker": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\ManoMouse.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\ManoMouse.cs",
+              "ToolTip": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\ManoMouse.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\ManoMouse.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:29:52.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonoMouse.cs",
+              "DocumentMoniker": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\MonoMouse.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\MonoMouse.cs",
+              "ToolTip": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\MonoMouse.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\MonoMouse.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:21:58.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControladorIntro.cs",
+              "DocumentMoniker": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\ControladorIntro.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\ControladorIntro.cs",
+              "ToolTip": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\ControladorIntro.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\ControladorIntro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:48:44.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JuegoUnirPuntos.cs",
+              "DocumentMoniker": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\JuegoUnirPuntos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\JuegoUnirPuntos.cs",
+              "ToolTip": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\JuegoUnirPuntos.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\JuegoUnirPuntos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T05:29:36.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Punto.cs",
+              "DocumentMoniker": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\Punto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\Punto.cs",
+              "ToolTip": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\Punto.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\Punto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T05:23:34.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\Spawner.cs",
+              "ToolTip": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\Spawner.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T05:10:42.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cinta.cs",
+              "DocumentMoniker": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\Cinta.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\Cinta.cs",
+              "ToolTip": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\Cinta.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\Cinta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T05:07:33.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManagerSimple.cs",
+              "DocumentMoniker": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\GameManagerSimple.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\GameManagerSimple.cs",
+              "ToolTip": "C:\\Users\\AlexisC\\Documents\\UnityProject\\Testing\\Assets\\Scenes\\Scripts\\GameManagerSimple.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\GameManagerSimple.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:10:48.069Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
